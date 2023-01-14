@@ -1,0 +1,3 @@
+nose
+hola esta es mi vida, para abrir un archivo de ubuntu
+en vs code tenia que poner un punto
