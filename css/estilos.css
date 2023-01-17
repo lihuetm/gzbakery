@@ -6,8 +6,26 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{ background: #7d687d;
+    box-shadow: 10px 10px 84px 3px #e8a0e8;
+    color: #e8e0cf ;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+
+}
+
+#cabecera #tagline
+{
+    margin: 1em;
+    font-weight: normal
+    font-size: 0.8em;
+}
     
-#container
+#container 
 {
     width: 50%;
     padding: 1em; 
