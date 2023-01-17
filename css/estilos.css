@@ -3,18 +3,19 @@ body
     color:rgb(231, 132, 231);
     text-align: center;
     font-family: "Lucida Console";
+    font-weight: bold;
 }
 
 #container
 {
 width: 80px;
 padding: 1em; 
-text-align: center;
-border: 2px salmon;
+text-align: justify;
+border: 40px salmon;
 margin: 0 auto;
 }
 
-#container h1
+#container #h1
 {
     font-size: large;
 
