@@ -2,10 +2,10 @@ body
 {color:#f5ceee;
     text-align: center;
     font-family: "Lucida Console"
-    font-size: extrabold;
-    margin: 0;
-    padding: 0;
-    background: #e6acda;
+    font-size(extrabold);
+    margin: center;
+    padding:first-letter
+    background#f5ce;
 
 }
 
@@ -20,25 +20,11 @@ body
 
 }
 
-#cabecera #tagline
+#container
 {
-    margin: 1em;
-    font-weight: normal
-    font-size: 0.8em;
+width: 80px;
+padding: 1em; 
+text-align: justify;
+border: 40px salmon;
+margin: 0 auto;
 }
-    
-#container 
-{
-    width: 50%;
-    padding: 1em; 
-    text-align: center;
-    border-bottom: 3px solid #e3b8e3;
-    border-left: 5px solid #e3b8e3;
-    border-right: 5px solid #e3b8e3;
-    border-top: 3px solid #e3b8e3;
-    text-align: center;
-    margin: 0 auto;
-
-} 
-    
- 
