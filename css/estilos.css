@@ -1,18 +1,23 @@
 body
-{color:#f5ceee;
+{   color: rgb(226, 187, 216);
+    background: linear-gradient(to right, 
+    #fa709a,
+    #da8fbd);
     text-align: center;
     font-family: "Lucida Console"
     font-size(extrabold);
     margin: center;
-    padding:first-letter
-    background#f5ce;
-
+    padding: 16px;
 }
 
 #cabecera
-{ background: #e3d7e1;
+{   color: transparent;
+    background: linear-gradient(to right, 
+    #fa709a,
+    #da8fbd);
+
     box-shadow: 10px 10px 84px 3px #d1c3a7;
-    color: #968196 ;
+    color: #d3bed3 ;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -20,11 +25,3 @@ body
 
 }
 
-#container
-{
-width: 80px;
-padding: 1em; 
-text-align: justify;
-border: 40px salmon;
-margin: 0 auto;
-}
