@@ -1,0 +1,8 @@
+cree token desde developer settings
+nombre es mail, password es token
+git remote -v
+cambie master a main git branch -m master main
+hacer merge
+git config pull.rebase false
+traemos los cambios remotos con PULL: git pull --allow-unrelated-histories origin main
+subimos el repositorio local a github: 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
