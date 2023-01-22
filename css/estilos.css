@@ -1,0 +1,27 @@
+body
+{   color: rgb(226, 187, 216);
+    background: linear-gradient(to right, 
+    #fa709a,
+    #da8fbd);
+    text-align: center;
+    font-family: "Lucida Console"
+    font-size(extrabold);
+    margin: center;
+    padding: 16px;
+}
+
+#cabecera
+{   color: transparent;
+    background: linear-gradient(to left, 
+    #fa709a,
+    #da8fbd);
+
+    box-shadow: 10px 10px 84px 3px #d1c3a7;
+    color: #d3bed3 ;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+
+}
+
